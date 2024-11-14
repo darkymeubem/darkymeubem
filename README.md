@@ -67,7 +67,7 @@ Me chamo Felipe Pedroza, tenho 20 anos e sou natural de Brasília. Atualmente es
     tittle="GitHub"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"         
 />
 
 
