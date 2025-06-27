@@ -91,7 +91,7 @@ Me chamo Felipe Pedroza, tenho 20 anos e sou natural de Brasília. Atualmente es
     alt="GitHub Stats"
     height="200"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=guilhermededeus&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=darkymeubem&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
 />
 
 <img
