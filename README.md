@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Felipe Pedroza, tenho 20 anos e sou natural de Brasília. Atualmente estou cursando Engenharia de Software na UnB, Administrador de Banco de Dados e Desenvolvimento Full Stack no SENAI.
+Me chamo Felipe Pedroza, tenho 21 anos e sou natural de Brasília. Atualmente estou cursando Engenharia de Software na UnB, Administrador de Banco de Dados e Desenvolvimento Full Stack no SENAI.
 
 ---
 
